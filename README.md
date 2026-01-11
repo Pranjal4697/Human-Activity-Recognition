@@ -1,9 +1,7 @@
 # Human Activity Recognition (HAR) using Machine Learning
 
 A machine learning project that classifies human physical activities using wearable sensor data. The work emphasizes **feature engineering, model comparison, and real-world adaptability**, achieving **~90% accuracy** using classical ML algorithms.
-
-**Advisor:** Prof. Nipun Batra, IIT Gandhinagar  
-**Duration:** Jan 2024 – Feb 2024  
+ 
 **Tech Stack:** Python, Scikit-learn, TSFEL, NumPy, Pandas
 
 ---
